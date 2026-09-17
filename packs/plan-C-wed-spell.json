@@ -1,37 +1,43 @@
 {
   "sectionId": "plan-C-2026-09-16-spell",
   "plan": "C",
-  "title": "Plan C Wed spelling",
+  "title": "Plan C Wed spelling — short words",
   "items": [
     {
       "id": "c-s1",
-      "prompt": "Letters in 'friend'?",
-      "answer": 6,
-      "choices": [
-        6,
-        5,
-        7
-      ]
+      "prompt": "Letters in 'hat'?",
+      "answer": 3,
+      "choices": [3, 2, 4]
     },
     {
       "id": "c-s2",
-      "prompt": "Syllables in 'pencil'?",
-      "answer": 2,
-      "choices": [
-        2,
-        1,
-        3
-      ]
+      "prompt": "Letters in 'ball'?",
+      "answer": 4,
+      "choices": [4, 3, 5]
     },
     {
       "id": "c-s3",
-      "prompt": "Double letters in 'book'?",
-      "answer": 2,
-      "choices": [
-        2,
-        1,
-        0
-      ]
+      "prompt": "Letters in 'red'?",
+      "answer": 3,
+      "choices": [3, 2, 4]
+    },
+    {
+      "id": "c-s4",
+      "prompt": "Letters in 'book'?",
+      "answer": 4,
+      "choices": [4, 3, 5]
+    },
+    {
+      "id": "c-s5",
+      "prompt": "Letters in 'yes'?",
+      "answer": 3,
+      "choices": [3, 2, 4]
+    },
+    {
+      "id": "c-s6",
+      "prompt": "Letters in 'run'?",
+      "answer": 3,
+      "choices": [3, 2, 4]
     }
   ]
 }

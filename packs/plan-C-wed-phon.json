@@ -1,37 +1,43 @@
 {
   "sectionId": "plan-C-2026-09-16-phon",
   "plan": "C",
-  "title": "Plan C Wed phonics \u2014 sounds",
+  "title": "Plan C Wed phonics — short sounds",
   "items": [
     {
       "id": "c-p1",
       "prompt": "Letters in 'cat'?",
       "answer": 3,
-      "choices": [
-        3,
-        2,
-        4
-      ]
+      "choices": [3, 2, 4]
     },
     {
       "id": "c-p2",
-      "prompt": "Vowels in 'boat'?",
-      "answer": 2,
-      "choices": [
-        2,
-        1,
-        3
-      ]
+      "prompt": "Letters in 'map'?",
+      "answer": 3,
+      "choices": [3, 2, 4]
     },
     {
       "id": "c-p3",
-      "prompt": "Sounds in 'ship'?",
+      "prompt": "Letters in 'it'?",
+      "answer": 2,
+      "choices": [2, 1, 3]
+    },
+    {
+      "id": "c-p4",
+      "prompt": "Letters in 'bed'?",
       "answer": 3,
-      "choices": [
-        3,
-        4,
-        2
-      ]
+      "choices": [3, 2, 4]
+    },
+    {
+      "id": "c-p5",
+      "prompt": "Letters in 'up'?",
+      "answer": 2,
+      "choices": [2, 1, 3]
+    },
+    {
+      "id": "c-p6",
+      "prompt": "Letters in 'dog'?",
+      "answer": 3,
+      "choices": [3, 4, 2]
     }
   ]
 }
