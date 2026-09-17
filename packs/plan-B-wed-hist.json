@@ -1,0 +1,37 @@
+{
+  "sectionId": "plan-B-2026-09-16-hist",
+  "plan": "B",
+  "title": "Plan B Wed history \u2014 Unit 1 review",
+  "items": [
+    {
+      "id": "b-h1",
+      "prompt": "Continents?",
+      "answer": 7,
+      "choices": [
+        7,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "b-h2",
+      "prompt": "Oceans (commonly taught)?",
+      "answer": 5,
+      "choices": [
+        5,
+        4,
+        7
+      ]
+    },
+    {
+      "id": "b-h3",
+      "prompt": "Months in a year?",
+      "answer": 12,
+      "choices": [
+        12,
+        10,
+        11
+      ]
+    }
+  ]
+}

@@ -1,48 +1,8 @@
 {
   "sectionId": "plan-B-2026-09-16-math",
   "plan": "B",
-  "title": "Plan B Wed math \u2014 multiply & estimate",
+  "title": "Plan B Wed math \u2014 tables & estimate (test-relevant)",
   "items": [
-    {
-      "id": "b-48",
-      "prompt": "48 \u00f7 6 \u00d7 (3+1) = ?",
-      "answer": 32,
-      "choices": [
-        32,
-        16,
-        24
-      ]
-    },
-    {
-      "id": "b-247",
-      "prompt": "247 \u00d7 36 = ?",
-      "answer": 8892,
-      "choices": [
-        8892,
-        8882,
-        8992
-      ]
-    },
-    {
-      "id": "b-pencils",
-      "prompt": "4\u00d728 \u2212 15 pencils left?",
-      "answer": 97,
-      "choices": [
-        97,
-        112,
-        87
-      ]
-    },
-    {
-      "id": "b-est",
-      "prompt": "Best estimate for 247\u00d736?",
-      "answer": 10000,
-      "choices": [
-        10000,
-        8000,
-        5000
-      ]
-    },
     {
       "id": "b-6x8",
       "prompt": "6 \u00d7 8 = ?",
@@ -54,12 +14,72 @@
       ]
     },
     {
+      "id": "b-7x9",
+      "prompt": "7 \u00d7 9 = ?",
+      "answer": 63,
+      "choices": [
+        63,
+        56,
+        72
+      ]
+    },
+    {
+      "id": "b-48div6",
+      "prompt": "48 \u00f7 6 = ?",
+      "answer": 8,
+      "choices": [
+        8,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "b-4x28",
+      "prompt": "4 \u00d7 28 = ?",
+      "answer": 112,
+      "choices": [
+        112,
+        108,
+        96
+      ]
+    },
+    {
+      "id": "b-pencils",
+      "prompt": "4\u00d725 \u2212 10 = ?",
+      "answer": 90,
+      "choices": [
+        90,
+        100,
+        80
+      ]
+    },
+    {
+      "id": "b-est",
+      "prompt": "Best estimate: 48 \u00d7 21?",
+      "answer": 1000,
+      "choices": [
+        1000,
+        800,
+        500
+      ]
+    },
+    {
       "id": "b-prime",
-      "prompt": "Is 48 prime (1) or composite (0)?",
+      "prompt": "Is 49 prime (1) or composite (0)?",
       "answer": 0,
       "choices": [
         0,
         1
+      ]
+    },
+    {
+      "id": "b-12x5",
+      "prompt": "12 \u00d7 5 = ?",
+      "answer": 60,
+      "choices": [
+        60,
+        55,
+        65
       ]
     }
   ]

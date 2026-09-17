@@ -1,0 +1,37 @@
+{
+  "sectionId": "plan-B-2026-09-16-ela",
+  "plan": "B",
+  "title": "Plan B Wed ELA \u2014 sentences",
+  "items": [
+    {
+      "id": "b-e1",
+      "prompt": "Words in: 'The cat ran.'?",
+      "answer": 3,
+      "choices": [
+        3,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "b-e2",
+      "prompt": "Syllables in 'elephant'?",
+      "answer": 3,
+      "choices": [
+        3,
+        4,
+        2
+      ]
+    },
+    {
+      "id": "b-e3",
+      "prompt": "Vowels in 'school'?",
+      "answer": 3,
+      "choices": [
+        3,
+        2,
+        4
+      ]
+    }
+  ]
+}

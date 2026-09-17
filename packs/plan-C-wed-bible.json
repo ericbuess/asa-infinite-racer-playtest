@@ -1,0 +1,37 @@
+{
+  "sectionId": "plan-C-2026-09-16-bible",
+  "plan": "C",
+  "title": "Plan C Wed Bible \u2014 review",
+  "items": [
+    {
+      "id": "c-b1",
+      "prompt": "How many Gospels?",
+      "answer": 4,
+      "choices": [
+        4,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "c-b2",
+      "prompt": "Days to create (Genesis)?",
+      "answer": 6,
+      "choices": [
+        6,
+        7,
+        5
+      ]
+    },
+    {
+      "id": "c-b3",
+      "prompt": "Commandments given to Moses?",
+      "answer": 10,
+      "choices": [
+        10,
+        12,
+        7
+      ]
+    }
+  ]
+}

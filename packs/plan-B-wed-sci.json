@@ -1,0 +1,37 @@
+{
+  "sectionId": "plan-B-2026-09-16-sci",
+  "plan": "B",
+  "title": "Plan B Wed science \u2014 review",
+  "items": [
+    {
+      "id": "b-s1",
+      "prompt": "States of matter?",
+      "answer": 3,
+      "choices": [
+        3,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "b-s2",
+      "prompt": "Water freezes at \u00b0C?",
+      "answer": 0,
+      "choices": [
+        0,
+        32,
+        100
+      ]
+    },
+    {
+      "id": "b-s3",
+      "prompt": "Legs on an insect?",
+      "answer": 6,
+      "choices": [
+        6,
+        8,
+        4
+      ]
+    }
+  ]
+}

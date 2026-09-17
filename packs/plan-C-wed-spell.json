@@ -1,0 +1,37 @@
+{
+  "sectionId": "plan-C-2026-09-16-spell",
+  "plan": "C",
+  "title": "Plan C Wed spelling",
+  "items": [
+    {
+      "id": "c-s1",
+      "prompt": "Letters in 'friend'?",
+      "answer": 6,
+      "choices": [
+        6,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "c-s2",
+      "prompt": "Syllables in 'pencil'?",
+      "answer": 2,
+      "choices": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "c-s3",
+      "prompt": "Double letters in 'book'?",
+      "answer": 2,
+      "choices": [
+        2,
+        1,
+        0
+      ]
+    }
+  ]
+}
