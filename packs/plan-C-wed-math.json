@@ -1,67 +1,107 @@
 {
   "sectionId": "plan-C-2026-09-16-math",
   "plan": "C",
-  "title": "Plan C Wed math — coins & count",
+  "title": "Plan C Wed math \u2014 coins & count",
   "items": [
     {
       "id": "c-n5",
       "prompt": "5 nickels = how many cents?",
       "answer": 25,
-      "choices": [25, 20, 30]
+      "choices": [
+        25,
+        20,
+        30
+      ]
     },
     {
       "id": "c-n3",
       "prompt": "3 nickels = how many cents?",
       "answer": 15,
-      "choices": [15, 10, 20]
+      "choices": [
+        15,
+        10,
+        20
+      ]
     },
     {
       "id": "c-n2p5",
       "prompt": "2 nickels + 5 pennies = how many cents?",
       "answer": 15,
-      "choices": [15, 12, 20]
+      "choices": [
+        15,
+        12,
+        20
+      ]
     },
     {
       "id": "c-n4p10",
       "prompt": "4 nickels + 10 pennies = how many cents?",
       "answer": 30,
-      "choices": [30, 25, 40]
+      "choices": [
+        30,
+        25,
+        40
+      ]
     },
     {
       "id": "c-dollar",
       "prompt": "How many nickels make one dollar?",
       "answer": 20,
-      "choices": [20, 10, 25]
-    },
-    {
-      "id": "c-chg2",
-      "prompt": "$5 − $3 → change in dollars?",
-      "answer": 2,
-      "choices": [2, 1, 3]
-    },
-    {
-      "id": "c-chg3",
-      "prompt": "$10 − $7 → change in dollars?",
-      "answer": 3,
-      "choices": [3, 2, 4]
+      "choices": [
+        20,
+        10,
+        25
+      ]
     },
     {
       "id": "c-n1p1",
       "prompt": "1 nickel + 1 penny = how many cents?",
       "answer": 6,
-      "choices": [6, 5, 7]
+      "choices": [
+        6,
+        5,
+        7
+      ]
     },
     {
       "id": "c-p10",
       "prompt": "10 pennies = how many cents?",
       "answer": 10,
-      "choices": [10, 5, 15]
+      "choices": [
+        10,
+        5,
+        15
+      ]
     },
     {
       "id": "c-n6",
       "prompt": "6 nickels = how many cents?",
       "answer": 30,
-      "choices": [30, 25, 35]
+      "choices": [
+        30,
+        25,
+        35
+      ]
+    },
+    {
+      "id": "c-p5",
+      "prompt": "5 pennies = how many cents?",
+      "answer": 5,
+      "choices": [
+        5,
+        10,
+        1
+      ]
+    },
+    {
+      "id": "c-n4",
+      "prompt": "4 nickels = how many cents?",
+      "answer": 20,
+      "choices": [
+        20,
+        15,
+        25
+      ]
     }
   ]
 }
