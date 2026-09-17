@@ -1,0 +1,66 @@
+{
+  "sectionId": "plan-B-2026-09-16-math",
+  "plan": "B",
+  "title": "Plan B Wed math \u2014 multiply & estimate",
+  "items": [
+    {
+      "id": "b-48",
+      "prompt": "48 \u00f7 6 \u00d7 (3+1) = ?",
+      "answer": 32,
+      "choices": [
+        32,
+        16,
+        24
+      ]
+    },
+    {
+      "id": "b-247",
+      "prompt": "247 \u00d7 36 = ?",
+      "answer": 8892,
+      "choices": [
+        8892,
+        8882,
+        8992
+      ]
+    },
+    {
+      "id": "b-pencils",
+      "prompt": "4\u00d728 \u2212 15 pencils left?",
+      "answer": 97,
+      "choices": [
+        97,
+        112,
+        87
+      ]
+    },
+    {
+      "id": "b-est",
+      "prompt": "Best estimate for 247\u00d736?",
+      "answer": 10000,
+      "choices": [
+        10000,
+        8000,
+        5000
+      ]
+    },
+    {
+      "id": "b-6x8",
+      "prompt": "6 \u00d7 8 = ?",
+      "answer": 48,
+      "choices": [
+        48,
+        42,
+        54
+      ]
+    },
+    {
+      "id": "b-prime",
+      "prompt": "Is 48 prime (1) or composite (0)?",
+      "answer": 0,
+      "choices": [
+        0,
+        1
+      ]
+    }
+  ]
+}

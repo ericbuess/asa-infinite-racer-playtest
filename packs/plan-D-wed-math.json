@@ -1,0 +1,67 @@
+{
+  "sectionId": "plan-D-2026-09-16-math",
+  "plan": "D",
+  "title": "Plan D Wed math \u2014 review stretch",
+  "items": [
+    {
+      "id": "d-5x9",
+      "prompt": "5 \u00d7 9 = ?",
+      "answer": 45,
+      "choices": [
+        45,
+        40,
+        54
+      ]
+    },
+    {
+      "id": "d-6x7",
+      "prompt": "6 \u00d7 7 = ?",
+      "answer": 42,
+      "choices": [
+        42,
+        36,
+        48
+      ]
+    },
+    {
+      "id": "d-81-9",
+      "prompt": "81 \u00f7 9 = ?",
+      "answer": 9,
+      "choices": [
+        9,
+        8,
+        11
+      ]
+    },
+    {
+      "id": "d-15+17",
+      "prompt": "15 + 17 = ?",
+      "answer": 32,
+      "choices": [
+        32,
+        30,
+        33
+      ]
+    },
+    {
+      "id": "d-50-18",
+      "prompt": "50 \u2212 18 = ?",
+      "answer": 32,
+      "choices": [
+        32,
+        28,
+        38
+      ]
+    },
+    {
+      "id": "d-11x3",
+      "prompt": "11 \u00d7 3 = ?",
+      "answer": 33,
+      "choices": [
+        33,
+        30,
+        36
+      ]
+    }
+  ]
+}

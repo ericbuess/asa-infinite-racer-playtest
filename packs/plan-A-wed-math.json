@@ -1,0 +1,67 @@
+{
+  "sectionId": "plan-A-2026-09-16-math",
+  "plan": "A",
+  "title": "Plan A Wed math \u2014 review stretch",
+  "items": [
+    {
+      "id": "a-7x8",
+      "prompt": "7 \u00d7 8 = ?",
+      "answer": 56,
+      "choices": [
+        56,
+        54,
+        63
+      ]
+    },
+    {
+      "id": "a-9x6",
+      "prompt": "9 \u00d7 6 = ?",
+      "answer": 54,
+      "choices": [
+        54,
+        56,
+        45
+      ]
+    },
+    {
+      "id": "a-12x4",
+      "prompt": "12 \u00d7 4 = ?",
+      "answer": 48,
+      "choices": [
+        48,
+        36,
+        52
+      ]
+    },
+    {
+      "id": "a-100-37",
+      "prompt": "100 \u2212 37 = ?",
+      "answer": 63,
+      "choices": [
+        63,
+        73,
+        67
+      ]
+    },
+    {
+      "id": "a-25+25",
+      "prompt": "25 + 25 = ?",
+      "answer": 50,
+      "choices": [
+        50,
+        45,
+        55
+      ]
+    },
+    {
+      "id": "a-8x7",
+      "prompt": "8 \u00d7 7 = ?",
+      "answer": 56,
+      "choices": [
+        56,
+        49,
+        64
+      ]
+    }
+  ]
+}
