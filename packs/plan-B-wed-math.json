@@ -1,11 +1,11 @@
 {
   "sectionId": "plan-B-2026-09-16-math",
   "plan": "B",
-  "title": "Plan B Wed math \u2014 tables & estimate (test-relevant)",
+  "title": "Plan B Wed math — facts soft (tables warm-up)",
   "items": [
     {
       "id": "b-6x8",
-      "prompt": "6 \u00d7 8 = ?",
+      "prompt": "6 × 8 = ?",
       "answer": 48,
       "choices": [
         48,
@@ -15,7 +15,7 @@
     },
     {
       "id": "b-7x9",
-      "prompt": "7 \u00d7 9 = ?",
+      "prompt": "7 × 9 = ?",
       "answer": 63,
       "choices": [
         63,
@@ -25,7 +25,7 @@
     },
     {
       "id": "b-48div6",
-      "prompt": "48 \u00f7 6 = ?",
+      "prompt": "48 ÷ 6 = ?",
       "answer": 8,
       "choices": [
         8,
@@ -35,17 +35,17 @@
     },
     {
       "id": "b-4x28",
-      "prompt": "4 \u00d7 28 = ?",
-      "answer": 112,
+      "prompt": "5 × 7 = ?",
+      "answer": 35,
       "choices": [
-        112,
-        108,
-        96
+        35,
+        30,
+        40
       ]
     },
     {
       "id": "b-pencils",
-      "prompt": "4\u00d725 \u2212 10 = ?",
+      "prompt": "4×25 − 10 = ?",
       "answer": 90,
       "choices": [
         90,
@@ -55,26 +55,26 @@
     },
     {
       "id": "b-est",
-      "prompt": "Best estimate: 48 \u00d7 21?",
-      "answer": 1000,
+      "prompt": "Best estimate: 19 × 3? (about)",
+      "answer": 60,
       "choices": [
-        1000,
-        800,
-        500
+        60,
+        40,
+        90
       ]
     },
     {
       "id": "b-prime",
-      "prompt": "Is 49 prime (1) or composite (0)?",
-      "answer": 0,
+      "prompt": "Is 9 odd (1) or even (0)?",
+      "answer": 1,
       "choices": [
-        0,
-        1
+        1,
+        0
       ]
     },
     {
       "id": "b-12x5",
-      "prompt": "12 \u00d7 5 = ?",
+      "prompt": "12 × 5 = ?",
       "answer": 60,
       "choices": [
         60,

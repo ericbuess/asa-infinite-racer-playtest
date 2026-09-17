@@ -3,7 +3,7 @@
   "plan": "C",
   "day": "fri",
   "date": "2026-09-18",
-  "title": "Plan C Fri math \u2014 p.55-56 keep sharp",
+  "title": "Plan C Fri math — 9-family keep sharp",
   "items": [
     {
       "id": "c-f-m1",
@@ -17,17 +17,17 @@
     },
     {
       "id": "c-f-m2",
-      "prompt": "Nickels in 45\u00a2?",
-      "answer": 9,
+      "prompt": "9 + 3 = ?",
+      "answer": 12,
       "choices": [
-        9,
-        8,
-        10
+        12,
+        11,
+        13
       ]
     },
     {
       "id": "c-f-m3",
-      "prompt": "45 \u2212 10 = ?",
+      "prompt": "45 − 10 = ?",
       "answer": 35,
       "choices": [
         35,
@@ -47,17 +47,17 @@
     },
     {
       "id": "c-f-m5",
-      "prompt": "3 nickels + 2 pennies = ?\u00a2",
-      "answer": 17,
+      "prompt": "17 − 9 = ?",
+      "answer": 8,
       "choices": [
-        17,
-        15,
-        20
+        8,
+        7,
+        9
       ]
     },
     {
       "id": "c-f-m6",
-      "prompt": "18 \u2212 9 = ?",
+      "prompt": "18 − 9 = ?",
       "answer": 9,
       "choices": [
         9,
@@ -67,12 +67,12 @@
     },
     {
       "id": "c-f-m7",
-      "prompt": "2 nickels = ?\u00a2",
-      "answer": 10,
+      "prompt": "8 + 9 = ?",
+      "answer": 17,
       "choices": [
-        10,
-        5,
-        15
+        17,
+        16,
+        18
       ]
     },
     {
