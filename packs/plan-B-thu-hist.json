@@ -1,0 +1,64 @@
+{
+  "sectionId": "plan-B-2026-09-17-hist",
+  "plan": "B",
+  "day": "thu",
+  "date": "2026-09-17",
+  "title": "Plan B Thu History \u2014 Ch.2 / Mesopotamia",
+  "items": [
+    {
+      "id": "b-t-h1",
+      "prompt": "Begin which study guide? (2)",
+      "answer": 2,
+      "choices": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "b-t-h2",
+      "prompt": "Video topic Thu? (1=Mesopotamia)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-t-h3",
+      "prompt": "Format for typed paragraphs? (1=MLA)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-t-h4",
+      "prompt": "Email paragraphs to ___? (1=teacher)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-t-h5",
+      "prompt": "Identify key proper ___ from Ch.2? (1=nouns)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-t-h6",
+      "prompt": "Do Now: finish typing ___? (1=paragraphs)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

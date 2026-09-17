@@ -1,0 +1,63 @@
+{
+  "sectionId": "plan-D-2026-09-17-math",
+  "plan": "D",
+  "day": "thu",
+  "date": "2026-09-17",
+  "title": "Plan D Thu \u2014 no Pre-Algebra (STEM keep)",
+  "items": [
+    {
+      "id": "d-t-m1",
+      "prompt": "Thu Pre-Algebra posted? (0=no)",
+      "answer": 0,
+      "choices": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "d-t-m2",
+      "prompt": "STEM design constraints help? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-t-m3",
+      "prompt": "Collaborate with teammates? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-t-m4",
+      "prompt": "Do not invent Thu Pre-Algebra? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-t-m5",
+      "prompt": "Wellness also Thu enrichment? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-t-m6",
+      "prompt": "Optional BONUS only? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

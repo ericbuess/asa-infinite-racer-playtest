@@ -1,0 +1,64 @@
+{
+  "sectionId": "plan-C-2026-09-18-bible",
+  "plan": "C",
+  "day": "fri",
+  "date": "2026-09-18",
+  "title": "Plan C Fri bible \u2014 Water From the Rock",
+  "items": [
+    {
+      "id": "c-f-b1",
+      "prompt": "Story name includes Rock? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-b2",
+      "prompt": "Exodus chapter for 10 Commandments? (20)",
+      "answer": 20,
+      "choices": [
+        20,
+        19,
+        21
+      ]
+    },
+    {
+      "id": "c-f-b3",
+      "prompt": "God cares / provides? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-b4",
+      "prompt": "Memory work this week? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-b5",
+      "prompt": "Water from the rock shows ___? (1=provision)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-b6",
+      "prompt": "Optional not classwork? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

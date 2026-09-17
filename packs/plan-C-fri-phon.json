@@ -1,0 +1,64 @@
+{
+  "sectionId": "plan-C-2026-09-18-phon",
+  "plan": "C",
+  "day": "fri",
+  "date": "2026-09-18",
+  "title": "Plan C Fri phonics \u2014 test #5 review",
+  "items": [
+    {
+      "id": "c-f-p1",
+      "prompt": "night has igh? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-p2",
+      "prompt": "ball has all? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-p3",
+      "prompt": "walk has alk? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-p4",
+      "prompt": "Phonics test number Fri? (5)",
+      "answer": 5,
+      "choices": [
+        5,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "c-f-p5",
+      "prompt": "tall uses all? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-p6",
+      "prompt": "high uses igh? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

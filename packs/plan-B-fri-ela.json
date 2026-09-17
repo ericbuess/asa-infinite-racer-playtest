@@ -1,0 +1,64 @@
+{
+  "sectionId": "plan-B-2026-09-18-ela",
+  "plan": "B",
+  "day": "fri",
+  "date": "2026-09-18",
+  "title": "Plan B Fri ELA \u2014 bombarded / C/C",
+  "items": [
+    {
+      "id": "b-f-e1",
+      "prompt": "Vocab Fri: Bombarded \u2248 many pressures at ___? (1=once)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-e2",
+      "prompt": "Chapter finish Fri if needed? (14)",
+      "answer": 14,
+      "choices": [
+        14,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "b-f-e3",
+      "prompt": "C/C temptation: Digory and ___? (1=Edmund)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-e4",
+      "prompt": "Who reflects Christ in scenes discussed? (1=Aslan)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-e5",
+      "prompt": "C/C asks how sin can affect ___? (1=others)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-e6",
+      "prompt": "Warm-up vocab Fri? (1=Bombarded)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

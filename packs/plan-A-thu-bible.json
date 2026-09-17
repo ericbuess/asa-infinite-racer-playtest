@@ -1,0 +1,63 @@
+{
+  "sectionId": "plan-A-2026-09-17-bible",
+  "plan": "A",
+  "day": "thu",
+  "date": "2026-09-17",
+  "title": "Plan A Thu enrichment keep",
+  "items": [
+    {
+      "id": "a-t-b1",
+      "prompt": "Optional study support? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-b2",
+      "prompt": "Synthetic plan labels only? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-b3",
+      "prompt": "Not required classwork? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-b4",
+      "prompt": "Check with grown-up if unsure? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-b5",
+      "prompt": "Energy is practice reward? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-b6",
+      "prompt": "Portal-grounded prompts? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sectionId": "plan-B-2026-09-17-ela",
+  "plan": "B",
+  "day": "thu",
+  "date": "2026-09-17",
+  "title": "Plan B Thu ELA \u2014 influence / ch.13",
+  "items": [
+    {
+      "id": "b-t-e1",
+      "prompt": "'Influence' means power to ___ others? (1=affect)",
+      "answer": 1,
+      "choices": [
+        1,
+        0,
+        2
+      ]
+    },
+    {
+      "id": "b-t-e2",
+      "prompt": "Starburst characters include Digory, Witch, and ___? (1=Aslan)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-t-e3",
+      "prompt": "Chapter focus Thursday? (13)",
+      "answer": 13,
+      "choices": [
+        13,
+        14,
+        12
+      ]
+    },
+    {
+      "id": "b-t-e4",
+      "prompt": "Throughlines include Truth ___? (1=Seeking)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-t-e5",
+      "prompt": "Vocab warm-up word Thu? (1=Influence)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-t-e6",
+      "prompt": "Tool for ch.13? (1=starburst)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

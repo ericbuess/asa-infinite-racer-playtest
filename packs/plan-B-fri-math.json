@@ -1,0 +1,85 @@
+{
+  "sectionId": "plan-B-2026-09-18-math",
+  "plan": "B",
+  "day": "fri",
+  "date": "2026-09-18",
+  "title": "Plan B Fri math \u2014 compare/order decimals",
+  "items": [
+    {
+      "id": "b-f-c1",
+      "prompt": "0.72 \u25a1 0.702 \u2014 which is greater? (1=0.72, 0=0.702)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-c2",
+      "prompt": "Order least\u2192great: 0.5, 0.45, 0.405 \u2014 middle value as thousandths?",
+      "answer": 450,
+      "choices": [
+        450,
+        500,
+        405
+      ]
+    },
+    {
+      "id": "b-f-c3",
+      "prompt": "1.9 \u25a1 1.09 \u2014 greater? (1=1.9)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-c4",
+      "prompt": "0.40 \u25a1 0.4 \u2014 equal? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-c5",
+      "prompt": "Least of 0.8, 0.75, 0.805?",
+      "answer": 75,
+      "choices": [
+        75,
+        80,
+        805
+      ]
+    },
+    {
+      "id": "b-f-c6",
+      "prompt": "0.099 \u25a1 0.1 \u2014 greater? (1=0.1)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-c7",
+      "prompt": "Align to thousandths: 0.5 = ?",
+      "answer": 500,
+      "choices": [
+        500,
+        50,
+        5
+      ]
+    },
+    {
+      "id": "b-f-c8",
+      "prompt": "Greatest: 0.36, 0.306, 0.063? (as thousandths)",
+      "answer": 360,
+      "choices": [
+        360,
+        306,
+        63
+      ]
+    }
+  ]
+}

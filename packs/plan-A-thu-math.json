@@ -1,0 +1,64 @@
+{
+  "sectionId": "plan-A-2026-09-17-math",
+  "plan": "A",
+  "day": "thu",
+  "date": "2026-09-17",
+  "title": "Plan A Thu Pre-Calc Ch.2 review stretch",
+  "items": [
+    {
+      "id": "a-t-m1",
+      "prompt": "Chapter under review? (2)",
+      "answer": 2,
+      "choices": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "a-t-m2",
+      "prompt": "Chapter 2 Test day? (1=Monday)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-m3",
+      "prompt": "Review before a test helps? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-m4",
+      "prompt": "Study support not new unit? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-m5",
+      "prompt": "Show steps on practice problems? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-m6",
+      "prompt": "Optional BONUS? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

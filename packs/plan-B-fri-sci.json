@@ -1,0 +1,63 @@
+{
+  "sectionId": "plan-B-2026-09-18-sci",
+  "plan": "B",
+  "day": "fri",
+  "date": "2026-09-18",
+  "title": "Plan B Fri Science \u2014 review stretch",
+  "items": [
+    {
+      "id": "b-f-s1",
+      "prompt": "Muscles work with bones for ___? (1=movement)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-s2",
+      "prompt": "Rest helps muscles ___? (1=recover)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-s3",
+      "prompt": "Water helps the body ___? (1=function)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-s4",
+      "prompt": "Optional BONUS label? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-s5",
+      "prompt": "Prior unit theme still muscular/skeletal? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-s6",
+      "prompt": "Heart is a ___ muscle? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

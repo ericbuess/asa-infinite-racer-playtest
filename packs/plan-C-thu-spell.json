@@ -1,0 +1,64 @@
+{
+  "sectionId": "plan-C-2026-09-17-spell",
+  "plan": "C",
+  "day": "thu",
+  "date": "2026-09-17",
+  "title": "Plan C Thu spelling \u2014 List 5",
+  "items": [
+    {
+      "id": "c-t-sp1",
+      "prompt": "Spelling list number Thu? (5)",
+      "answer": 5,
+      "choices": [
+        5,
+        4,
+        6
+      ]
+    },
+    {
+      "id": "c-t-sp2",
+      "prompt": "Pages to complete? (1=10-11)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-sp3",
+      "prompt": "Game mentioned? (1=Bingo)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-sp4",
+      "prompt": "Study for Fri test? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-sp5",
+      "prompt": "Optional BONUS only? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-sp6",
+      "prompt": "List 5 practice days before test? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "sectionId": "plan-C-2026-09-17-bible",
+  "plan": "C",
+  "day": "thu",
+  "date": "2026-09-17",
+  "title": "Plan C Thu bible \u2014 chapel day keep",
+  "items": [
+    {
+      "id": "c-t-b1",
+      "prompt": "Thursday had ___? (1=Chapel)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-b2",
+      "prompt": "Be kind / listen well? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-b3",
+      "prompt": "Study support label BONUS? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-b4",
+      "prompt": "Pray quietly for others? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-b5",
+      "prompt": "Chapel = gathering to worship? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-b6",
+      "prompt": "Real names on hub? (0=no)",
+      "answer": 0,
+      "choices": [
+        0,
+        1
+      ]
+    }
+  ]
+}

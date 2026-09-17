@@ -1,0 +1,63 @@
+{
+  "sectionId": "plan-D-2026-09-18-bible",
+  "plan": "D",
+  "day": "fri",
+  "date": "2026-09-18",
+  "title": "Plan D Fri Bible reading plan",
+  "items": [
+    {
+      "id": "d-f-b1",
+      "prompt": "Create personal Bible reading plan? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-f-b2",
+      "prompt": "Homework Bible Fri? (0=None)",
+      "answer": 0,
+      "choices": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "d-f-b3",
+      "prompt": "3-day plan is a valid stretch? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-f-b4",
+      "prompt": "Keep plan realistic? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-f-b5",
+      "prompt": "Wellness also MAP Fri? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-f-b6",
+      "prompt": "Study support not classwork? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

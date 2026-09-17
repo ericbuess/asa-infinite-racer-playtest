@@ -1,0 +1,63 @@
+{
+  "sectionId": "plan-C-2026-09-17-ela",
+  "plan": "C",
+  "day": "thu",
+  "date": "2026-09-17",
+  "title": "Plan C Thu reading \u2014 Nate sequence",
+  "items": [
+    {
+      "id": "c-t-r1",
+      "prompt": "Nate the Great pages? (1=54-62)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-r2",
+      "prompt": "Skill: sequence of ___? (1=events)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-r3",
+      "prompt": "Visual tool ready for ___? (1=Monday)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-r4",
+      "prompt": "Oral reading book Fun with ___? (1=Friends)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-r5",
+      "prompt": "First\u2192next\u2192then is ___ order? (1=sequence)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-r6",
+      "prompt": "Study support not graded? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

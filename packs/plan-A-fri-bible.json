@@ -1,0 +1,63 @@
+{
+  "sectionId": "plan-A-2026-09-18-bible",
+  "plan": "A",
+  "day": "fri",
+  "date": "2026-09-18",
+  "title": "Plan A Fri Spiritual Disciplines race",
+  "items": [
+    {
+      "id": "a-f-b1",
+      "prompt": "Prayer walk reflection OK? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-b2",
+      "prompt": "Daily rhythms matter? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-b3",
+      "prompt": "Discuss with care? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-b4",
+      "prompt": "No portal login on hub? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-b5",
+      "prompt": "BONUS label required? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-b6",
+      "prompt": "Honesty banners on? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

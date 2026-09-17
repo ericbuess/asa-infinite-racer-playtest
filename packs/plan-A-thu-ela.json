@@ -1,0 +1,63 @@
+{
+  "sectionId": "plan-A-2026-09-17-ela",
+  "plan": "A",
+  "day": "thu",
+  "date": "2026-09-17",
+  "title": "Plan A Thu Spanish/reading stretch",
+  "items": [
+    {
+      "id": "a-t-e1",
+      "prompt": "Preterite practice for ER/IR? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-e2",
+      "prompt": "yo form of comer pret. ends like com\u00ed? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-e3",
+      "prompt": "Reading comp activity posted Thu? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-e4",
+      "prompt": "Study support only? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-e5",
+      "prompt": "Grammar focus preterite? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-e6",
+      "prompt": "Optional BONUS? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

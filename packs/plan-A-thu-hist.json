@@ -1,0 +1,63 @@
+{
+  "sectionId": "plan-A-2026-09-17-hist",
+  "plan": "A",
+  "day": "thu",
+  "date": "2026-09-17",
+  "title": "Plan A Thu Biology water (sci as hist pack fallback unused)",
+  "items": [
+    {
+      "id": "a-t-h1",
+      "prompt": "Water property: cohesion? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-h2",
+      "prompt": "Adhesion is a water property? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-h3",
+      "prompt": "Ice expands upon freezing? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-h4",
+      "prompt": "Water is an excellent ___? (1=solvent)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-h5",
+      "prompt": "Lab due Wed Sep 23 note? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-t-h6",
+      "prompt": "Chemistry of Water presentation Thu? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "sectionId": "plan-C-2026-09-18-spell",
+  "plan": "C",
+  "day": "fri",
+  "date": "2026-09-18",
+  "title": "Plan C Fri spelling \u2014 List 5 test",
+  "items": [
+    {
+      "id": "c-f-sp1",
+      "prompt": "Spelling TEST list #? (5)",
+      "answer": 5,
+      "choices": [
+        5,
+        6,
+        4
+      ]
+    },
+    {
+      "id": "c-f-sp2",
+      "prompt": "Preview List #? (6)",
+      "answer": 6,
+      "choices": [
+        6,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "c-f-sp3",
+      "prompt": "Preview page? (91)",
+      "answer": 91,
+      "choices": [
+        91,
+        10,
+        11
+      ]
+    },
+    {
+      "id": "c-f-sp4",
+      "prompt": "Circle special ___ on p.91? (1=sounds)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-sp5",
+      "prompt": "Check p.10-11 Fri? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-sp6",
+      "prompt": "Tear out p.91 to send ___? (1=home)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "sectionId": "plan-C-2026-09-17-math",
+  "plan": "C",
+  "day": "thu",
+  "date": "2026-09-17",
+  "title": "Plan C Thu math \u2014 9 addition family",
+  "items": [
+    {
+      "id": "c-t-m1",
+      "prompt": "9 + 6 = ?",
+      "answer": 15,
+      "choices": [
+        15,
+        14,
+        16
+      ]
+    },
+    {
+      "id": "c-t-m2",
+      "prompt": "15 \u2212 9 = ?",
+      "answer": 6,
+      "choices": [
+        6,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "c-t-m3",
+      "prompt": "6 + 9 = ?",
+      "answer": 15,
+      "choices": [
+        15,
+        16,
+        14
+      ]
+    },
+    {
+      "id": "c-t-m4",
+      "prompt": "9 + 8 = ?",
+      "answer": 17,
+      "choices": [
+        17,
+        16,
+        18
+      ]
+    },
+    {
+      "id": "c-t-m5",
+      "prompt": "4 nickels + 3 pennies = ?\u00a2",
+      "answer": 23,
+      "choices": [
+        23,
+        20,
+        25
+      ]
+    },
+    {
+      "id": "c-t-m6",
+      "prompt": "9 + 7 = ?",
+      "answer": 16,
+      "choices": [
+        16,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "c-t-m7",
+      "prompt": "16 \u2212 9 = ?",
+      "answer": 7,
+      "choices": [
+        7,
+        6,
+        8
+      ]
+    },
+    {
+      "id": "c-t-m8",
+      "prompt": "5 nickels = ?\u00a2",
+      "answer": 25,
+      "choices": [
+        25,
+        20,
+        30
+      ]
+    }
+  ]
+}

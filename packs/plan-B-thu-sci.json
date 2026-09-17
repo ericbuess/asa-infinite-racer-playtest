@@ -1,0 +1,63 @@
+{
+  "sectionId": "plan-B-2026-09-17-sci",
+  "plan": "B",
+  "day": "thu",
+  "date": "2026-09-17",
+  "title": "Plan B Thu Science \u2014 muscular",
+  "items": [
+    {
+      "id": "b-t-s1",
+      "prompt": "Thu LT topic? (1=muscular)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-t-s2",
+      "prompt": "Muscles help the body ___? (1=move)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-t-s3",
+      "prompt": "Healthy habit for muscles? (1=exercise)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-t-s4",
+      "prompt": "Muscles can help with ___? (1=posture)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-t-s5",
+      "prompt": "Study support only \u2014 not graded? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-t-s6",
+      "prompt": "System name starts with M? (1=muscular)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

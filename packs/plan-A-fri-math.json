@@ -1,0 +1,63 @@
+{
+  "sectionId": "plan-A-2026-09-18-math",
+  "plan": "A",
+  "day": "fri",
+  "date": "2026-09-18",
+  "title": "Plan A Fri math keep \u2014 no new precalc post",
+  "items": [
+    {
+      "id": "a-f-m1",
+      "prompt": "Keep reviewing Ch.2 skills? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-m2",
+      "prompt": "Test still Monday? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-m3",
+      "prompt": "One practice problem a day helps? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-m4",
+      "prompt": "Hub labels synthetic only? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-m5",
+      "prompt": "Not inventing Fri Pre-Calc post? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-m6",
+      "prompt": "Optional stretch? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

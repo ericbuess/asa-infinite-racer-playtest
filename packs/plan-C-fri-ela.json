@@ -1,0 +1,64 @@
+{
+  "sectionId": "plan-C-2026-09-18-ela",
+  "plan": "C",
+  "day": "fri",
+  "date": "2026-09-18",
+  "title": "Plan C Fri reading/bible keep",
+  "items": [
+    {
+      "id": "c-f-r1",
+      "prompt": "Bible story: Water From the ___? (1=Rock)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-r2",
+      "prompt": "Memory: 10 Commandments Exodus ___? (20)",
+      "answer": 20,
+      "choices": [
+        20,
+        19,
+        21
+      ]
+    },
+    {
+      "id": "c-f-r3",
+      "prompt": "God provided ___ from the rock? (1=water)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-r4",
+      "prompt": "Optional BONUS? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-r5",
+      "prompt": "Friday specials include Art Line? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-r6",
+      "prompt": "Library: digital ___? (1=citizenship)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

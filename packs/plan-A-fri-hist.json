@@ -1,0 +1,63 @@
+{
+  "sectionId": "plan-A-2026-09-18-hist",
+  "plan": "A",
+  "day": "fri",
+  "date": "2026-09-18",
+  "title": "Plan A Fri Spiritual Disciplines",
+  "items": [
+    {
+      "id": "a-f-h1",
+      "prompt": "Campus Prayer Walk Analysis Fri? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-h2",
+      "prompt": "Daily rhythms and practices? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-h3",
+      "prompt": "Reflect and discuss? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-h4",
+      "prompt": "No real names on hub? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-h5",
+      "prompt": "Optional BONUS? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-h6",
+      "prompt": "Spiritual Disciplines class Fri? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

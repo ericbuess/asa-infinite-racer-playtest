@@ -1,0 +1,89 @@
+{
+  "sectionId": "plan-C-2026-09-18-math",
+  "plan": "C",
+  "day": "fri",
+  "date": "2026-09-18",
+  "title": "Plan C Fri math \u2014 p.55-56 keep sharp",
+  "items": [
+    {
+      "id": "c-f-m1",
+      "prompt": "9 + 7 = ?",
+      "answer": 16,
+      "choices": [
+        16,
+        15,
+        17
+      ]
+    },
+    {
+      "id": "c-f-m2",
+      "prompt": "Nickels in 45\u00a2?",
+      "answer": 9,
+      "choices": [
+        9,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "c-f-m3",
+      "prompt": "45 \u2212 10 = ?",
+      "answer": 35,
+      "choices": [
+        35,
+        30,
+        40
+      ]
+    },
+    {
+      "id": "c-f-m4",
+      "prompt": "9 + 5 = ?",
+      "answer": 14,
+      "choices": [
+        14,
+        13,
+        15
+      ]
+    },
+    {
+      "id": "c-f-m5",
+      "prompt": "3 nickels + 2 pennies = ?\u00a2",
+      "answer": 17,
+      "choices": [
+        17,
+        15,
+        20
+      ]
+    },
+    {
+      "id": "c-f-m6",
+      "prompt": "18 \u2212 9 = ?",
+      "answer": 9,
+      "choices": [
+        9,
+        8,
+        10
+      ]
+    },
+    {
+      "id": "c-f-m7",
+      "prompt": "2 nickels = ?\u00a2",
+      "answer": 10,
+      "choices": [
+        10,
+        5,
+        15
+      ]
+    },
+    {
+      "id": "c-f-m8",
+      "prompt": "9 + 9 = ?",
+      "answer": 18,
+      "choices": [
+        18,
+        17,
+        19
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "sectionId": "plan-B-2026-09-18-hist",
+  "plan": "B",
+  "day": "fri",
+  "date": "2026-09-18",
+  "title": "Plan B Fri History \u2014 Ch.2 wrap",
+  "items": [
+    {
+      "id": "b-f-h1",
+      "prompt": "Study guide #1-15 is ___ work? (1=partner)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-h2",
+      "prompt": "#16-26 is ___? (1=independent)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-h3",
+      "prompt": "Word search topic? (1=Fertile Crescent)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-h4",
+      "prompt": "Chapter number? (2)",
+      "answer": 2,
+      "choices": [
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "b-f-h5",
+      "prompt": "Finish Ch.2 study guide Fri? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "b-f-h6",
+      "prompt": "Key proper nouns from Ch.? (2)",
+      "answer": 2,
+      "choices": [
+        2,
+        1,
+        3
+      ]
+    }
+  ]
+}

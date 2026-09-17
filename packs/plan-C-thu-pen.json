@@ -1,0 +1,65 @@
+{
+  "sectionId": "plan-C-2026-09-17-pen",
+  "plan": "C",
+  "day": "thu",
+  "date": "2026-09-17",
+  "title": "Plan C Thu penmanship \u2014 cursive review",
+  "items": [
+    {
+      "id": "c-t-pen1",
+      "prompt": "Writing page Thu? (26)",
+      "answer": 26,
+      "choices": [
+        26,
+        27,
+        25
+      ]
+    },
+    {
+      "id": "c-t-pen2",
+      "prompt": "Writing TEST #? (3)",
+      "answer": 3,
+      "choices": [
+        3,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "c-t-pen3",
+      "prompt": "Cursive capital I finishes curve ___? (1=left)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-pen4",
+      "prompt": "Review day for cursive? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-pen5",
+      "prompt": "Ink pad OK for practice? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-pen6",
+      "prompt": "Not graded homework on hub? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

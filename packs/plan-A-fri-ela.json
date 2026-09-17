@@ -1,0 +1,63 @@
+{
+  "sectionId": "plan-A-2026-09-18-ela",
+  "plan": "A",
+  "day": "fri",
+  "date": "2026-09-18",
+  "title": "Plan A Fri English \u2014 rhetorical analysis",
+  "items": [
+    {
+      "id": "a-f-e1",
+      "prompt": "Rhetorical situation includes audience? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-e2",
+      "prompt": "FRQ type Fri? (1=Rhetorical Analysis)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-e3",
+      "prompt": "Evaluate rhetorical ___? (1=choices)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-e4",
+      "prompt": "Homework Fri English? (0=None)",
+      "answer": 0,
+      "choices": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "a-f-e5",
+      "prompt": "Speaker + audience + purpose? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "a-f-e6",
+      "prompt": "Word choice can affect tone? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

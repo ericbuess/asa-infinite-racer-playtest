@@ -1,0 +1,64 @@
+{
+  "sectionId": "plan-C-2026-09-17-phon",
+  "plan": "C",
+  "day": "thu",
+  "date": "2026-09-17",
+  "title": "Plan C Thu phonics \u2014 igh/all/alk",
+  "items": [
+    {
+      "id": "c-t-p1",
+      "prompt": "igh as in ___? (1=night)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-p2",
+      "prompt": "all as in ___? (1=ball)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-p3",
+      "prompt": "alk as in ___? (1=walk)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-p4",
+      "prompt": "talk uses which pattern? (1=alk)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-p5",
+      "prompt": "light uses which pattern? (1=igh)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-t-p6",
+      "prompt": "Lesson number L? (28)",
+      "answer": 28,
+      "choices": [
+        28,
+        27,
+        29
+      ]
+    }
+  ]
+}

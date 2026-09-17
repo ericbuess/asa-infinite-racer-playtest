@@ -1,0 +1,63 @@
+{
+  "sectionId": "plan-D-2026-09-18-math",
+  "plan": "D",
+  "day": "fri",
+  "date": "2026-09-18",
+  "title": "Plan D Fri Pre-Algebra MAP day",
+  "items": [
+    {
+      "id": "d-f-m1",
+      "prompt": "Fri Pre-Algebra activity? (1=Map Testing)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-f-m2",
+      "prompt": "HW Fri Pre-Algebra? (0=None)",
+      "answer": 0,
+      "choices": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "d-f-m3",
+      "prompt": "Review prior fraction skills OK as BONUS? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-f-m4",
+      "prompt": "GCF was earlier-week skill? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-f-m5",
+      "prompt": "Not claiming official Fri worksheet? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-f-m6",
+      "prompt": "Synthetic study support? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

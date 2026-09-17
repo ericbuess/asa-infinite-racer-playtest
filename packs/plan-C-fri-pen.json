@@ -1,0 +1,64 @@
+{
+  "sectionId": "plan-C-2026-09-18-pen",
+  "plan": "C",
+  "day": "fri",
+  "date": "2026-09-18",
+  "title": "Plan C Fri penmanship \u2014 p.27",
+  "items": [
+    {
+      "id": "c-f-pen1",
+      "prompt": "Writing page Fri? (27)",
+      "answer": 27,
+      "choices": [
+        27,
+        26,
+        28
+      ]
+    },
+    {
+      "id": "c-f-pen2",
+      "prompt": "Neat spacing matters? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-pen3",
+      "prompt": "Practice on ink pad OK? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-pen4",
+      "prompt": "Cursive still the focus? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-pen5",
+      "prompt": "Optional BONUS? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "c-f-pen6",
+      "prompt": "Slow careful strokes? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}

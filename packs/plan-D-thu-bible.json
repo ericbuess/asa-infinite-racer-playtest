@@ -1,0 +1,63 @@
+{
+  "sectionId": "plan-D-2026-09-17-bible",
+  "plan": "D",
+  "day": "thu",
+  "date": "2026-09-17",
+  "title": "Plan D Thu Wellness/STEM faith keep",
+  "items": [
+    {
+      "id": "d-t-b1",
+      "prompt": "Body as temple idea in wellness? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-t-b2",
+      "prompt": "Physical wellness matters? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-t-b3",
+      "prompt": "Faith over fear in STEM hope? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-t-b4",
+      "prompt": "No real names? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-t-b5",
+      "prompt": "Optional BONUS? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    },
+    {
+      "id": "d-t-b6",
+      "prompt": "Thu = STEM+Wellness not Pre-Alg? (1=yes)",
+      "answer": 1,
+      "choices": [
+        1,
+        0
+      ]
+    }
+  ]
+}
