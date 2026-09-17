@@ -1,0 +1,13 @@
+{
+  "sectionId": "plan-C-2026-09-16-pen",
+  "plan": "C",
+  "title": "Plan C Wed penmanship — letters",
+  "items": [
+    {"id":"c-pen1","prompt":"Letters in 'a'?","answer":1,"choices":[1,2,3]},
+    {"id":"c-pen2","prompt":"Letters in 'hi'?","answer":2,"choices":[2,1,3]},
+    {"id":"c-pen3","prompt":"Letters in 'mom'?","answer":3,"choices":[3,2,4]},
+    {"id":"c-pen4","prompt":"Letters in 'name'?","answer":4,"choices":[4,3,5]},
+    {"id":"c-pen5","prompt":"Letters in 'pen'?","answer":3,"choices":[3,2,4]},
+    {"id":"c-pen6","prompt":"Letters in 'write'?","answer":5,"choices":[5,4,6]}
+  ]
+}
